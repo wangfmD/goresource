@@ -23,7 +23,5 @@ func main() {
 		if readerError == io.EOF {
 			return
 		}
-
 	}
-
 }
